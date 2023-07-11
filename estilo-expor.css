@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+.imagu{
+	position: absolute;
+	left: 500px;
+
+}
+
+.imagem {
+	position: absolute;
+margin-top: 100px;
+	left: 500px;
+}
+h1 {
+	position: absolute;
+	left: 785px;
+	margin-top: 340px;
+	font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 80px;
+}
+
+.fofo {
+	position: absolute;
+	left: 700px;
+	margin-top: -80px;
+	
+}
+
+.biscoito {
+	position: absolute;
+	margin-top: 350px;
+}
+
+h2 {
+	position: absolute;
+	left: 765px;
+	margin-top: 440px;
+	font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	font-size: 80px;
+}
