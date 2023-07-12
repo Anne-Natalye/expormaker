@@ -29,7 +29,8 @@ h1 {
 
 .biscoito {
 	position: absolute;
-	margin-top: 350px;
+	margin-top: 520px;
+	left: 390px;
 }
 
 h2 {
@@ -38,4 +39,17 @@ h2 {
 	margin-top: 440px;
 	font:Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
 	font-size: 80px;
+}
+
+.logo {
+	position: absolute;
+	left: 855px;
+	margin-top: 135px;
+}
+
+.flor {
+	position: absolute;
+	left: 600px;
+	margin-top: 100px;
+	
 }
